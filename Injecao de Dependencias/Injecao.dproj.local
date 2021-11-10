@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/08 11:33:49.000.087,=C:\Users\Paulo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/09 21:03:51.971,=C:\Users\Paulo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/09 21:15:19.621,C:\Users\Paulo\Documents\Workspace\DUP2.0\POO Intermediario\Injecao de Dependencias\eInjecao.View.Principal.dfm=C:\Users\Paulo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/11/09 21:15:19.621,C:\Users\Paulo\Documents\Workspace\DUP2.0\POO Intermediario\Injecao de Dependencias\eInjecao.View.Principal.pas=C:\Users\Paulo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/11/09 21:15:27.679,C:\Users\Paulo\Documents\Workspace\DUP2.0\POO Intermediario\Injecao de Dependencias\Injecao.dproj=C:\Users\Paulo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
