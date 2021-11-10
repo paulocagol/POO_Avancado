@@ -1,0 +1,10 @@
+unit eInterface.Model.Pessoa;
+
+interface
+
+type
+
+
+implementation
+
+end.
